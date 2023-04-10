@@ -1,0 +1,44 @@
+body{
+    background: linear-gradient(135deg, rgb(18, 1, 46) 23%, rgb(22, 25, 80) 100%); 
+    color: white;
+  }
+footer{
+    background: linear-gradient(135deg, rgb(18, 1, 46) 23%, rgb(22, 25, 80) 100%); 
+    color: white;
+    bottom: 0;
+    text-align: center;
+  }
+.mb-3{
+    width: 90%;
+}
+#contenedorformulario{
+    padding-right: 50%;
+}
+nav{
+    margin-bottom: 20px;
+}
+.card{
+    margin-top: 20px;
+}
+#contenedorlista{
+    margin-right: 70%;
+}
+.nav-link{
+    color: white;
+}
+.nav-link:active{
+    color: white;
+}
+#contenedorimg{
+    display:inline-block;
+}
+#contenedorranking{
+    width: 100%;
+    display: grid;
+    justify-content: center;
+}
+#lista{
+    background: transparent; 
+    width: 100%;
+    margin-top: 10px;
+}
